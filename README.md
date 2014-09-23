@@ -20,9 +20,11 @@ Las herramientas consideradas hasta el momento son:
 - Framework: puede ser que se llegue a utilizar Symphony, Zend (PHP) o Django (Python)
 
 Es un trabajo en progreso y aun hay muchas cuestiones sin decidirse.
+La idea es darle un deseño modular independiente para que pueda complementarse o integrarse
+con otros sistemas HIS y ERP.
 
 Esperamos que quieran unirse para poder concretarlo
----
+
 Agosto de 2014
 
 
